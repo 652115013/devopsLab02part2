@@ -139,4 +139,4 @@ Emoji:
 Markup : [&#128163]
 
 652115002 krittayot
-65215001 Karanthapong
+65215001 Karanthapong .__.
