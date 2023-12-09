@@ -138,4 +138,4 @@ Emoji:
 &#128163;
 Markup : [&#128163]
 
-652115002 krittayot
+652115002 krittayot &#128163;
